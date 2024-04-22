@@ -6,105 +6,98 @@ include_in_header: false
 
 # Privacy Policy
 
-We value your ("User," "You," or "Your") privacy and recognize the sensitivity of your personal information. We are committed to protecting your personal information and using it only as appropriate to provide you with the best possible service, products, and opportunities, as described in this Privacy Policy.
+Letalk respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself (except for cookies and pixel tags, as provided in this privacy policy). When we do need your personal information to provide services that you request or when you choose to use our application, an AI tool built to help you achieve English fluency (the “App” or the “Services”), or provide us with your personal information, for example when you decide to contact us for additional information, this policy describes how we collect and use your personal information.
 
-This Privacy Policy explains the online information practices of Lang AI LLC (collectively, “Company,” “LA,” “we,” “us,” or “our”) which hosts the mobile application Quiz Scanner(collectively, the “Application”). We think it is important to explain what information we collect, what we do with it and to describe the rights you will have with respect to your personal data processed by us. LA strictly complies with the applicable data protection laws and regulations. LA is the data controller for any relevant local legislation. The controller of your personal information is LA.
+The entity responsible for the processing of your personal data is LANG AI LLC referred to as “Letalk”, “our”, “we” or “us” in this privacy policy.
 
-Please note that when using the Application, this Privacy Policy should be read in conjunction with our Terms of Use. By accessing the Application, you acknowledge that the Privacy Policy and the Terms of Use govern your use of the Application.
+Depending on your interaction with us, we collect two types of data:
 
-Privacy and personal data protection principles vary from one country to another. When you access or visit a third party website or application, you are subject to the privacy policy of that website or application. Please read the third party’s privacy policy to determine the privacy practices that apply to information or data maintained by the website or application.
+"Non-Personal Data" meaning, information which does not identify a specific natural person and cannot reasonably be used for such identification. We collect Non-Personal Data during your interaction with us, such as your date and times of interaction, means of communications, whether you have engaged with emails we sent you, etc. This data is considered as Non-Personal Data when collected on an aggregate or statistical basis, or otherwise not combined with online identifiers.
 
-**I.What Information We Collect and How It Is Used**
+Non-Personal Data may be used by us without limitation and for any purpose, including for commercial, research, or statistical purposes, in order to maintain and develop our website, App and Services including among others, to help prevent frauds, etc.
 
-We may collect and hold personal information related to you that is necessary for the purpose of conducting our business, including (without limitation) to deliver products, services or information, improve our services to offer better experience, and to fulfill our regulatory obligations. We will tell you when we ask for your information whether it is a statutory or contractual requirement to give us the information and the consequences of not providing the information.
+“Personal information” means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a home, postal or other physical address, other contact information, title, birth date, gender, occupation, industry, personal interests, and other information required in order to provide a product or service you requested.
 
-To undertake above goals, we may collect the following personal information related to our users:
+We use the Personal Information we collect from you for a range of different business purposes according to different legal bases of processing. We may use or process your personal information for the following purposes. One or more legal bases may apply simultaneously.
 
-**User profile:** If you are a user to the Application, creating a user profile is optional. If you register for a user account with the Application, we may collect certain information such as your located country, e-mail address, username and password.
+##### Information for providing you with Services
 
-**User content:** We will collect any user content you create, share, or post to the Application, which may include information contained in your user account, as well as photos or other image files and associated metadata. Please note that other users of the Application may be able to download and extract any images shared publicly on the Application.
+We may collect and store Personal Information such as name, address, email address, telephone number, gender, birth date, and other contact information in order to provide you with Services. We may also collect and store Personal Information regarding your usage of the App, for example, the information you provide during a lesson offered by the App, the transcript of the lessons, and your voice recording during the conversation.
 
-**Do not provide financial account numbers, social security numbers , pictures of other individuals, information regarding your health status or of other individuals or any other sensitive or confidential information via the Application.**
+The basis for our collection of data is the need to carry out the above processing of information, as part of the performance of existing engagements with you.
 
-We may also collect information that you submit when you contact the customer support, or otherwise submit information to the Company, including email address, and other information submitted during your use of the Application.
+##### Information for Customer Support and Inquiries
 
-**Financial Data:** We utilize Apple and Google to process all financial transactions and LA is not provided with any personal data related to your transaction.
+We may collect and store Personal Information, such as name, address, email address, telephone number and contact information, when you submit inquiries or requests with respect to our App and Services. We will use such information to contact you only for the purposes for which you sent the inquiry.
 
-**Device and Internet Usage:** If you download the Application, we may collect information from your device, including identifiers to help us identify your device’s hardware and operating system. Device information may be accessed using industry standard identifiers such as those approved by your device operating system manufacturer.
+The basis for collection of data is the need to carry out the above processing of information for performance of existing engagements with you and our legitimate interest to conduct an effective interaction with our users which are customers and/or potential customers.
 
-**Cookies:** Cookies are small files which, when placed on your device, enable the Platform to provide certain features and functionality. We and our service providers use cookies to automatically collect information, measure and analyze which pages you click on and how you use the application, enhance your experience using the application, improve our services. Cookies may include information such as your login or registration identification, user preferences, time spent on a website and pages visited. We may also use third-party tracking technology to record similar information regarding you and your activity on the Application. Google Analytics may collect your IP address, data related to the device/browser, or other information about your use of the Application and may do so using cookies. Google Analytics’ data practices are governed by the Google Privacy Policy, as it may be amended from time to time. By using the Application, you consent to our use of Cookies.
+Information for the maintenance and Improvement of our website, App, and Services
 
-Additionally, we allow our service providers (including analytics vendors and advertising networks) to collect information about your online activities through cookies. These third parties may use this information to display advertisements on our application and elsewhere online tailored to your interests, preferences, and characteristics. We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Policy.
+We may also use your Personal Information, such as personal information regarding your usage of the App, as web server logs, IP addresses, cookies, local storage tools, pixel tags, web beacons when you send us inquiries regarding our App, Services or when you browse the website, in order to administrate and improve the App, website, or our Services, for our internal records and for statistical analysis, as set forth in this Policy.
 
-Some devices may offer a “Do Not Track” feature. The Application does not respond to “Do Not Track” signals.
+We also use data provided by you, including conversation data, to retrain and enhance the App’s algorithms.
 
-You can change your cookie preferences by clicking on the cookie management tool implemented on our Application/Website.
+The basis for collection of data is the need to carry out the above processing of information for our legitimate interest to conduct such improvements and analysis, as well as for the performance of our contract with you.
 
-Current versions of web browsers also offer user controls regarding the placement and duration of both first and third-party cookies. You can find information about this and find more information about cookies at https://www.allaboutcookies.org. If you are interested in more information about behavioral advertising especially how to opt-out of these cookies, please visit https://www.aboutads.info/choices/.
+#### Information for Marketing and Promotional Purposes
 
-II. How Information Is Used
+In the event you sign up to receive our newsletter or other promotional materials, or where we are permitted to do so under applicable law, we will process your contact details, such as email address, for sending you news, notices, newsletters and updates regarding our Services. In line with the GDPR we will always give you the opportunity to opt in to our mailing list and without your explicit consent we will not add you to our mailing list to receive direct marketing or market research information Our lawful basis for the processing of this data is our legitimate interests, or, in certain cases your consent.
 
-| **Purpose**                                                  | **Legal Basis**                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| To provide support and to respond to your requests and enquiries | WWe have a legitimate interest to respond to your requests and inquiries for ongoing business administration |
-| To personalize your visits to the Application and to assist you while you use the Application | We have a legitimate interest in providing and improving the Application |
-| To deliver the Application’s services                        |                                                              |
-| To improve the Application by helping us understand who uses the Application and how it is being used |                                                              |
-| To share data with our service providers, such as those that host data for us, including Amazon Web Services | We have a legitimate interest in using vendors to provide business services |
-| To share data with our affiliates                            | We have a legitimate interest in improving our services      |
-| To market our products and services as well as enable third parties to provide advertisements to you via the Application | We have a legitimate interest in promoting our products and services and generating advertising revenue, and give you choices about whether or not to use our advertising supported free application option |
-| To send emails and push notifications to existing customers/users for own similar goods and services provided that customers/users have been properly informed beforehand and can cancel such messages/notifications at any time. | We have a legitimate interest in sending emails and push notifications to existing customers/users for own similar goods and services. |
-| To respond to law enforcement organization, or other government officials where we have a legal obligation, including complying with legal demands and complying with production and court orders. We will notify user of the information request or submission as, and if, allowed. | We have a legitimate interest in complying with applicable legal or regulatory obligations |
-| The day to day running and management of the business including to monitor, maintain and improve the processes, information and data, technology and communications solutions and services we use; protect our legal rights and interests; and share such personal information with third parties that acquire or are interested in acquiring all or part of our assets or shares, or that succeeds us in carrying on our business; | We have a legitimate interest to manage our business including to maintain ongoing operations and to improve and strengthen our operations |
+You may withdraw your consent at any time by clicking the “unsubscribe” link which will be included in the email we will send you. You may also contact us through the below means of contact and request to unsubscribe.
 
-**Your Right to Object - Please note that you have a right to object to processing of your personal information where that processing is carried out for our legitimate interest.**
+##### Cookies, pixels and web beacons
 
+The website and the App may also collect cookies, pixels, web beacons and other similar information collected through application tracker and analytics tools.
 
+We use such information to assist us in securing your use of the App and to enhance the performance of our website, App and Services. Cookies are small text files sent from the server to your device. Cookies used by us do not contain personal information nor do they contain account or password information. They merely allow the App and the website to recognize that a page request comes from someone who has already logged on.
 
-**III. Information That Is Not Covered by This Privacy Policy**
+We may share website and App usage information with reputable advertising companies for targeting our banner advertisements on our website,  App and other websites and Apps. For this purpose, pixel tags (also called clear gifs or web beacons) may be used to note the pages you have visited. The information collected by the advertising company through the use of these pixel tags is not personally identifiable.
 
-We may allow you to communicate with other users of the Application and post information using message boards and other similar features available through the Application. NONE of the information that you provide using these features is protected by this Privacy Policy. You should consult the privacy practices of these third parties before sharing your information with third parties.
+If you wish to block cookies, you may do so through your browser’s and application settings. You can delete cookies that are already on your computer or local storage, and you can set your browser to prevent them from being placed going forward. However, please bear in mind that disabling cookies or local storage may adversely affect your user experience of the Service.
 
-**IV.Data Retention**
+##### Information sharing and disclosure
 
-We retain your personal information for as long as it is necessary and relevant for our business. The criteria used to determine the retention periods include: (i) how long the personal information is needed to provide the services and operate the business; (ii) the type of personal information collected; and (iii) whether we are subject to a legal, contractual or similar obligation to retain the personal information (e.g., mandatory data retention laws, government orders to preserve data relevant to an investigation, or data that must be retained for the purposes of litigation or disputes).
+Your personal information may be shared with other Letalk offices or subsidiaries around the world. All such entities are governed by this Privacy Policy or are bound by the appropriate confidentiality and data transfer agreements.
 
-**V. Data Rights**
+Letalk may share your personal information with other companies or people under any of the following circumstances:
 
-You have the right (subject to certain limitations) to: (i) request access to personal information we hold about you; (ii) the correction of your personal information when incorrect, out of date or incomplete; (iii) request that we delete your personal information; (iv) opt-out of any marketing communications that we may send to you and to object to us using / holding your personal information if we have no legitimate reason to do so; and (iii) the portability of personal information i.e., ask for a copy of your personal information to be provided to you, or a third party, in a digital format. Where we are relying on your consent to handle your personal information, you have the right to withdraw your consent to this use at any time. We do not sell personal information to third parties for their own business/commercial uses.
+1. When we have your consent to share the information;
+2. We need to send the information to third parties who provide services to Letalk (such as speech recognition or speech-to-text technology), or work on behalf of Letalk to provide you with certain customer service (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose);
+3. In the event of sale or transfer of all or substantially all of Letalk or any Letalk affiliate’s shares or assets, in cases of mergers or in case of negotiations with respect to the foregoing;
+4. Where needed for corporate audits or to investigate or respond to a complaint or security threat, to prevent illegal uses of our services, to defend ourselves against third party claims and assist in fraud prevention or investigation; or
+5. We will also disclose your personal information if required to do so by law, or in urgent circumstances, to protect personal safety, the public or our business.
 
-All such requests should be made using the contact details set out below. Please note that if you request that your personal information be deleted, you may no longer be able to access or use certain parts of the Application. We will respond to your request in writing, or orally if requested, as soon as practicable and in any event not more than within one month after receipt of your request. In exceptional cases, we may extend this period by two months and we will tell you why. We may request proof of identification to verify your request. For more details in relation to your rights, including how to exercise them, please contact us using the contact details below.
+We will not sell or otherwise transfer the personally identifiable information you provide to us at our App or website to any third parties for their own direct marketing use unless we provide clear notice to you and obtain your explicit consent for your data to be shared in this manner, when required by applicable law.
 
-You also have the right to lodge a complaint about the handling of your personal information with an EU data protection authority or other relevant regulator.
+For the above purposes, personal information may be transferred to recipients in countries around the world (which may be located outside the EU/EEA) which in some cases may have a lower level of protection than that within the EU/EEA. When transferring personal data to countries outside the EU/EEA, to jurisdictions that did not receive an adequacy decision or other safe harbor mechanism by the European Commission, we use standard contractual clauses approved by the European Commission to ensure a sufficient level of protection for your personal information. 
 
-California residents may request certain information about our disclosure of personal data during the prior calendar year to third parties for their direct marketing purposes. We do not share your personal data with third parties or corporate affiliates for their direct marketing purposes.
+##### Data Retention
 
-**VI. Security**
+Letalk stores the personal information as long as it is necessary to fulfill the purpose for which the data has been collected. This means that Letalk deletes your personal information when such information is no longer necessary, unless we have a legitimate interest to retain such data for longer periods or are required to do so by any applicable law. Statistics which have been anonymized may be saved thereafter.
 
-We maintain security standards and procedures designed to prevent unauthorized access to your data by anyone, including our staff. We use commercially reasonable means such as (but not limited to) data encryption, firewalls and server authentication to protect the security of your personal information. The Company and our staff and any third parties hired to provide support services will be required to observe our privacy standards and to allow us to audit them for compliance. However, no information security defenses are impenetrable, and we cannot guarantee the security of our applications, servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
+##### Data security
 
-**VII. International Audience**
+Letalk safeguards the security of the data you send us with physical, electronic, and managerial procedures, taking into consideration the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of processing your personal information. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet.
 
-The Application is hosted in the United States. Therefore, personal information collected from you, including via the Application, will be transferred to the United States. Such transfer may not provide a similar level of protection to that provided by countries in foreign jurisdictions. As discussed above, we have a legitimate interest in utilizing service providers in the United States to provide you with the services.
+##### Third party sites
 
-Please do not use the Application if you do not agree to the transfer and processing of your personal information in the United States or if it is illegal to do so in your home country.
+Our App and Website may contain links to other apps and websites operated by other companies. Letalk does not share your personal information with those apps and websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. Some of these third-party apps and sites may have permission to include the Letalk logo, even though they are not operated or maintained by Letalk. Although we choose our business partners carefully, Letalk is not responsible for the privacy practices of apps and websites operated by third parties that are linked to our website and App. Once you have left our website or App, you should check the applicable privacy policy of the third-party website or app to determine how they will handle any information they collect from you. We may provide services based on third party applications and content tools on Letalk’s website or App. These third parties may automatically receive certain types of information whenever you interact with us on our website or App using such third-party applications and tools, based on such third parties’ privacy statements.
 
-**VIII. Children’s Privacy**
+##### Changes to this privacy policy
 
-We do not knowingly collect personal information from children under the age of 16, and in the event that we learn that a child under the age of 16 has provided information on the Application, we will delete that information as soon as possible.
+Letalk will amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on Letalk’s website.
 
-**IX. Changes**
+Our website and mobile application may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
 
-This Privacy Policy sets out our current policies and demonstrates our commitment to your privacy. We may change the content or services found on the Application at any time, and consequently our Privacy Policy may change at any time in the future and will be updated from time to time. Whenever we make changes to this Privacy Policy that are important for you to know about, we will post the updated Privacy Policy at this link.
+You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
 
-**X. Your Queries**
-
-If you have any queries regarding privacy issues or if you wish to exercise your data rights as described above, email us or visit any of our branches for more information. To ensure that we carry out your instructions accurately, to help us continually improve our service and in the interests of security, we may monitor and/or record your telephone calls with us.
+Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
 Our contact information:
 
 **LANG AI, LLC**
 
-**8 THE GREEN, STE A, DOVER, DELAWARE,** [**United States**](http://www.baidu.com/link?url=twViw74yUHbBgulQzj-nif9Q5sscVPxxPcQBNsEyn17jZ01-Agrc262VWHn_nrq_ghbPwFCZM1S-mDJUbvWT4D3JQUghVjJ71TVahdAjEaiiQeeXpP1AeXIu8DRvMMQ-gz-vins7OQC-_YrcEfIFR_)
+**8 THE GREEN, STE A, DOVER, DELAWARE,** [**United States**]
 
 Contact email: support@langaiapp.com
